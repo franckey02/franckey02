@@ -21,7 +21,11 @@ I actively collaborate on various open-source projects, focusing on launchers, p
 
 ### 📈 GitHub Stats
 
-![Javier's Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=franckey02&show_icons=true&theme=tokyonight" alt="Javier's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franckey02&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 *Programming is my hobby and my way of contributing to the growth of open-source software.*
