@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Javier Castro (Javier C) 👋
 
-<!--
-**franckey02/franckey02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer passionate about programming and open-source software. I mainly focus on system tool development and improving Linux ecosystems.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Scripting & Systems:** ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) 
+  ![VoidLinux](https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=void-linux&logoColor=white)
+
+### 🚀 Projects & Contributions
+
+I actively collaborate on various open-source projects, focusing on launchers, packaging, and system environments:
+
+- **TrinityLauncher**: Development of an efficient launcher for mc-bedrock.
+- **Neko-Void**: Technical contributions to the project's core.
+- **Void Linux**: Participating in the development and maintenance of the distribution's ecosystem.
+
+### 📈 GitHub Stats
+
+![Javier's Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+
+---
+*Programming is my hobby and my way of contributing to the growth of open-source software.*
